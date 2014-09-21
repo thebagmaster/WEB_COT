@@ -1,0 +1,11 @@
+			Current Net - Minimum Net
+INDEX = 100 X	-----------------------------------------
+			Maximum Net - Minimum Net
+
+
+inputs: Multiplier(1), Window(20), LineTime1(830), LineTime2(1515); 
+vars: SellStop(0), BuyStop(0), Offset(0); 
+SellStop = lowest(l,window) - (avgtruerange(Window) * Multiplier) ; 
+BuyStop = highest(h,window) + (avgtruerange(Window) * Multiplier) ; 
+Plot1(SellStop, "SellStop" , red); 
+Plot2(BuyStop, "BuyStop", green); 

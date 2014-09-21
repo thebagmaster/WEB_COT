@@ -1,0 +1,775 @@
+[Thu Mar 01 20:34:31 2012] [notice] Digest: generating secret for digest authentication ...
+[Thu Mar 01 20:34:31 2012] [notice] Digest: done
+[Thu Mar 01 20:34:31 2012] [notice] Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 configured -- resuming normal operations
+[Thu Mar 01 20:34:31 2012] [notice] Server built: Sep 10 2011 11:34:11
+[Thu Mar 01 20:34:31 2012] [notice] Parent: Created child process 4496
+Apache server shutdown initiated...
+Digest: generating secret for digest authentication ...
+[Thu Mar 01 20:34:31 2012] [notice] Digest: done
+[Thu Mar 01 20:34:32 2012] [notice] Child 4496: Child process is running
+[Thu Mar 01 20:34:32 2012] [notice] Child 4496: Acquired the start mutex.
+[Thu Mar 01 20:34:32 2012] [notice] Child 4496: Starting 150 worker threads.
+[Thu Mar 01 20:34:32 2012] [notice] Child 4496: Starting thread to listen on port 443.
+[Thu Mar 01 20:34:32 2012] [notice] Child 4496: Starting thread to listen on port 443.
+[Thu Mar 01 20:34:32 2012] [notice] Child 4496: Starting thread to listen on port 80.
+[Thu Mar 01 20:34:32 2012] [notice] Child 4496: Starting thread to listen on port 80.
+[Thu Mar 01 20:56:58 2012] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Mar 01 20:56:58 2012] [notice] Child 4496: Exit event signaled. Child process is ending.
+[Thu Mar 01 20:56:59 2012] [notice] Child 4496: Released the start mutex
+[Thu Mar 01 20:57:00 2012] [notice] Child 4496: All worker threads have exited.
+[Thu Mar 01 20:57:00 2012] [notice] Child 4496: Child process is exiting
+[Thu Mar 01 20:57:00 2012] [notice] Parent: Child process exited successfully.
+[Thu Mar 01 20:57:25 2012] [notice] Digest: generating secret for digest authentication ...
+[Thu Mar 01 20:57:25 2012] [notice] Digest: done
+[Thu Mar 01 20:57:25 2012] [notice] Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 configured -- resuming normal operations
+[Thu Mar 01 20:57:25 2012] [notice] Server built: Sep 10 2011 11:34:11
+[Thu Mar 01 20:57:25 2012] [notice] Parent: Created child process 2948
+[Thu Mar 01 20:57:25 2012] [notice] Digest: generating secret for digest authentication ...
+[Thu Mar 01 20:57:25 2012] [notice] Digest: done
+[Thu Mar 01 20:57:26 2012] [notice] Child 2948: Child process is running
+[Thu Mar 01 20:57:26 2012] [notice] Child 2948: Acquired the start mutex.
+[Thu Mar 01 20:57:26 2012] [notice] Child 2948: Starting 150 worker threads.
+[Thu Mar 01 20:57:26 2012] [notice] Child 2948: Starting thread to listen on port 443.
+[Thu Mar 01 20:57:26 2012] [notice] Child 2948: Starting thread to listen on port 443.
+[Thu Mar 01 20:57:26 2012] [notice] Child 2948: Starting thread to listen on port 80.
+[Thu Mar 01 20:57:26 2012] [notice] Child 2948: Starting thread to listen on port 80.
+[Thu Mar 01 21:01:04 2012] [warn] pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Mar 01 21:01:04 2012] [notice] Digest: generating secret for digest authentication ...
+[Thu Mar 01 21:01:04 2012] [notice] Digest: done
+[Thu Mar 01 21:01:04 2012] [notice] Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 configured -- resuming normal operations
+[Thu Mar 01 21:01:04 2012] [notice] Server built: Sep 10 2011 11:34:11
+[Thu Mar 01 21:01:04 2012] [notice] Parent: Created child process 5008
+[Thu Mar 01 21:01:05 2012] [notice] Digest: generating secret for digest authentication ...
+[Thu Mar 01 21:01:05 2012] [notice] Digest: done
+[Thu Mar 01 21:01:05 2012] [notice] Child 5008: Child process is running
+[Thu Mar 01 21:01:05 2012] [notice] Child 5008: Acquired the start mutex.
+[Thu Mar 01 21:01:05 2012] [notice] Child 5008: Starting 150 worker threads.
+[Thu Mar 01 21:01:05 2012] [notice] Child 5008: Starting thread to listen on port 443.
+[Thu Mar 01 21:01:05 2012] [notice] Child 5008: Starting thread to listen on port 443.
+[Thu Mar 01 21:01:05 2012] [notice] Child 5008: Starting thread to listen on port 80.
+[Thu Mar 01 21:01:05 2012] [notice] Child 5008: Starting thread to listen on port 80.
+[Thu Mar 01 22:50:42 2012] [error] [client 74.117.58.80] File does not exist: C:/xampp/htdocs/admin
+[Fri Mar 02 20:15:30 2012] [warn] pid file E:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Mar 02 20:15:30 2012] [notice] Digest: generating secret for digest authentication ...
+[Fri Mar 02 20:15:30 2012] [notice] Digest: done
+[Fri Mar 02 20:15:32 2012] [notice] Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 configured -- resuming normal operations
+[Fri Mar 02 20:15:32 2012] [notice] Server built: Sep 10 2011 11:34:11
+[Fri Mar 02 20:15:32 2012] [notice] Parent: Created child process 3212
+[Fri Mar 02 20:15:32 2012] [notice] Digest: generating secret for digest authentication ...
+[Fri Mar 02 20:15:32 2012] [notice] Digest: done
+[Fri Mar 02 20:15:33 2012] [notice] Child 3212: Child process is running
+[Fri Mar 02 20:15:33 2012] [notice] Child 3212: Acquired the start mutex.
+[Fri Mar 02 20:15:33 2012] [notice] Child 3212: Starting 150 worker threads.
+[Fri Mar 02 20:15:33 2012] [notice] Child 3212: Starting thread to listen on port 443.
+[Fri Mar 02 20:15:33 2012] [notice] Child 3212: Starting thread to listen on port 443.
+[Fri Mar 02 20:15:33 2012] [notice] Child 3212: Starting thread to listen on port 80.
+[Fri Mar 02 20:15:33 2012] [notice] Child 3212: Starting thread to listen on port 80.
+[Fri Mar 02 20:22:00 2012] [warn] pid file E:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Mar 02 20:22:00 2012] [notice] Digest: generating secret for digest authentication ...
+[Fri Mar 02 20:22:00 2012] [notice] Digest: done
+[Fri Mar 02 20:22:01 2012] [notice] Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 configured -- resuming normal operations
+[Fri Mar 02 20:22:01 2012] [notice] Server built: Sep 10 2011 11:34:11
+[Fri Mar 02 20:22:01 2012] [notice] Parent: Created child process 748
+[Fri Mar 02 20:22:01 2012] [notice] Digest: generating secret for digest authentication ...
+[Fri Mar 02 20:22:01 2012] [notice] Digest: done
+[Fri Mar 02 20:22:01 2012] [notice] Child 748: Child process is running
+[Fri Mar 02 20:22:01 2012] [notice] Child 748: Acquired the start mutex.
+[Fri Mar 02 20:22:01 2012] [notice] Child 748: Starting 150 worker threads.
+[Fri Mar 02 20:22:01 2012] [notice] Child 748: Starting thread to listen on port 443.
+[Fri Mar 02 20:22:01 2012] [notice] Child 748: Starting thread to listen on port 443.
+[Fri Mar 02 20:22:01 2012] [notice] Child 748: Starting thread to listen on port 80.
+[Fri Mar 02 20:22:01 2012] [notice] Child 748: Starting thread to listen on port 80.
+[Fri Mar 02 20:47:04 2012] [error] [client ::1] script 'E:/xampp/htdocs/COT_DATA/test.php' not found or unable to stat
+[Fri Mar 02 20:47:23 2012] [error] [client ::1] script 'E:/xampp/htdocs/COT_DATA/test.php' not found or unable to stat
+[Fri Mar 02 20:47:48 2012] [error] [client ::1] script 'E:/xampp/htdocs/COT_DATA/test..php' not found or unable to stat
+[Fri Mar 02 20:47:53 2012] [error] [client ::1] script 'E:/xampp/htdocs/COT_DATA/test.php' not found or unable to stat
+[Fri Mar 02 20:48:09 2012] [error] [client ::1] script 'E:/xampp/htdocs/COT_DATA/test.php' not found or unable to stat
+[Fri Mar 02 20:49:26 2012] [warn] pid file E:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Mar 02 20:49:26 2012] [notice] Digest: generating secret for digest authentication ...
+[Fri Mar 02 20:49:26 2012] [notice] Digest: done
+[Fri Mar 02 20:49:26 2012] [notice] Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 configured -- resuming normal operations
+[Fri Mar 02 20:49:26 2012] [notice] Server built: Sep 10 2011 11:34:11
+[Fri Mar 02 20:49:26 2012] [notice] Parent: Created child process 3812
+[Fri Mar 02 20:49:26 2012] [notice] Digest: generating secret for digest authentication ...
+[Fri Mar 02 20:49:26 2012] [notice] Digest: done
+[Fri Mar 02 20:49:27 2012] [notice] Child 3812: Child process is running
+[Fri Mar 02 20:49:27 2012] [notice] Child 3812: Acquired the start mutex.
+[Fri Mar 02 20:49:27 2012] [notice] Child 3812: Starting 150 worker threads.
+[Fri Mar 02 20:49:27 2012] [notice] Child 3812: Starting thread to listen on port 443.
+[Fri Mar 02 20:49:27 2012] [notice] Child 3812: Starting thread to listen on port 443.
+[Fri Mar 02 20:49:27 2012] [notice] Child 3812: Starting thread to listen on port 80.
+[Fri Mar 02 20:49:27 2012] [notice] Child 3812: Starting thread to listen on port 80.
+[Fri Mar 02 20:49:40 2012] [warn] pid file E:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Mar 02 20:49:40 2012] [notice] Digest: generating secret for digest authentication ...
+[Fri Mar 02 20:49:40 2012] [notice] Digest: done
+[Fri Mar 02 20:49:41 2012] [notice] Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 configured -- resuming normal operations
+[Fri Mar 02 20:49:41 2012] [notice] Server built: Sep 10 2011 11:34:11
+[Fri Mar 02 20:49:41 2012] [notice] Parent: Created child process 1824
+[Fri Mar 02 20:49:41 2012] [notice] Digest: generating secret for digest authentication ...
+[Fri Mar 02 20:49:41 2012] [notice] Digest: done
+[Fri Mar 02 20:49:41 2012] [notice] Child 1824: Child process is running
+[Fri Mar 02 20:49:41 2012] [notice] Child 1824: Acquired the start mutex.
+[Fri Mar 02 20:49:41 2012] [notice] Child 1824: Starting 150 worker threads.
+[Fri Mar 02 20:49:41 2012] [notice] Child 1824: Starting thread to listen on port 443.
+[Fri Mar 02 20:49:41 2012] [notice] Child 1824: Starting thread to listen on port 443.
+[Fri Mar 02 20:49:41 2012] [notice] Child 1824: Starting thread to listen on port 80.
+[Fri Mar 02 20:49:41 2012] [notice] Child 1824: Starting thread to listen on port 80.
+[Fri Mar 02 20:51:01 2012] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Mar 02 20:51:01 2012] [notice] Child 1824: Exit event signaled. Child process is ending.
+[Fri Mar 02 20:51:02 2012] [notice] Child 1824: Released the start mutex
+[Fri Mar 02 20:51:03 2012] [notice] Child 1824: All worker threads have exited.
+[Fri Mar 02 20:51:03 2012] [notice] Child 1824: Child process is exiting
+[Fri Mar 02 20:51:03 2012] [notice] Parent: Child process exited successfully.
+[Fri Mar 02 20:51:12 2012] [notice] Digest: generating secret for digest authentication ...
+[Fri Mar 02 20:51:12 2012] [notice] Digest: done
+[Fri Mar 02 20:51:13 2012] [notice] Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 configured -- resuming normal operations
+[Fri Mar 02 20:51:13 2012] [notice] Server built: Sep 10 2011 11:34:11
+[Fri Mar 02 20:51:13 2012] [notice] Parent: Created child process 3684
+Apache server shutdown initiated...
+Digest: generating secret for digest authentication ...
+[Fri Mar 02 20:51:13 2012] [notice] Digest: done
+[Fri Mar 02 20:51:14 2012] [notice] Child 3684: Child process is running
+[Fri Mar 02 20:51:14 2012] [notice] Child 3684: Acquired the start mutex.
+[Fri Mar 02 20:51:14 2012] [notice] Child 3684: Starting 150 worker threads.
+[Fri Mar 02 20:51:14 2012] [notice] Child 3684: Starting thread to listen on port 443.
+[Fri Mar 02 20:51:14 2012] [notice] Child 3684: Starting thread to listen on port 443.
+[Fri Mar 02 20:51:14 2012] [notice] Child 3684: Starting thread to listen on port 80.
+[Fri Mar 02 20:51:14 2012] [notice] Child 3684: Starting thread to listen on port 80.
+[Fri Mar 02 20:52:30 2012] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Mar 02 20:52:30 2012] [notice] Child 3684: Exit event signaled. Child process is ending.
+[Fri Mar 02 20:52:31 2012] [notice] Child 3684: Released the start mutex
+[Fri Mar 02 20:52:32 2012] [notice] Child 3684: All worker threads have exited.
+[Fri Mar 02 20:52:32 2012] [notice] Child 3684: Child process is exiting
+[Fri Mar 02 20:52:32 2012] [notice] Parent: Child process exited successfully.
+[Fri Mar 02 21:00:47 2012] [notice] Digest: generating secret for digest authentication ...
+[Fri Mar 02 21:00:47 2012] [notice] Digest: done
+[Fri Mar 02 21:00:47 2012] [notice] Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 configured -- resuming normal operations
+[Fri Mar 02 21:00:47 2012] [notice] Server built: Sep 10 2011 11:34:11
+[Fri Mar 02 21:00:47 2012] [notice] Parent: Created child process 3576
+Apache server shutdown initiated...
+Digest: generating secret for digest authentication ...
+[Fri Mar 02 21:00:48 2012] [notice] Digest: done
+[Fri Mar 02 21:00:48 2012] [notice] Child 3576: Child process is running
+[Fri Mar 02 21:00:48 2012] [notice] Child 3576: Acquired the start mutex.
+[Fri Mar 02 21:00:48 2012] [notice] Child 3576: Starting 150 worker threads.
+[Fri Mar 02 21:00:48 2012] [notice] Child 3576: Starting thread to listen on port 443.
+[Fri Mar 02 21:00:48 2012] [notice] Child 3576: Starting thread to listen on port 443.
+[Fri Mar 02 21:00:48 2012] [notice] Child 3576: Starting thread to listen on port 80.
+[Fri Mar 02 21:00:48 2012] [notice] Child 3576: Starting thread to listen on port 80.
+[Fri Mar 02 21:01:59 2012] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Mar 02 21:01:59 2012] [notice] Child 3576: Exit event signaled. Child process is ending.
+[Fri Mar 02 21:02:00 2012] [notice] Child 3576: Released the start mutex
+[Fri Mar 02 21:02:01 2012] [notice] Child 3576: All worker threads have exited.
+[Fri Mar 02 21:02:01 2012] [notice] Child 3576: Child process is exiting
+[Fri Mar 02 21:02:01 2012] [notice] Parent: Child process exited successfully.
+[Fri Mar 02 21:02:03 2012] [notice] Digest: generating secret for digest authentication ...
+[Fri Mar 02 21:02:03 2012] [notice] Digest: done
+[Fri Mar 02 21:02:03 2012] [notice] Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 configured -- resuming normal operations
+[Fri Mar 02 21:02:03 2012] [notice] Server built: Sep 10 2011 11:34:11
+[Fri Mar 02 21:02:03 2012] [notice] Parent: Created child process 4560
+[Fri Mar 02 21:02:03 2012] [notice] Digest: generating secret for digest authentication ...
+[Fri Mar 02 21:02:03 2012] [notice] Digest: done
+[Fri Mar 02 21:02:04 2012] [notice] Child 4560: Child process is running
+[Fri Mar 02 21:02:04 2012] [notice] Child 4560: Acquired the start mutex.
+[Fri Mar 02 21:02:04 2012] [notice] Child 4560: Starting 150 worker threads.
+[Fri Mar 02 21:02:04 2012] [notice] Child 4560: Starting thread to listen on port 443.
+[Fri Mar 02 21:02:04 2012] [notice] Child 4560: Starting thread to listen on port 443.
+[Fri Mar 02 21:02:04 2012] [notice] Child 4560: Starting thread to listen on port 80.
+[Fri Mar 02 21:02:04 2012] [notice] Child 4560: Starting thread to listen on port 80.
+[Fri Mar 02 21:03:32 2012] [error] [client ::1] script 'E:/xampp/htdocs/COT_DATA/test.php' not found or unable to stat
+[Sat Mar 03 00:21:30 2012] [notice] Parent: child process exited with status 3221225725 -- Restarting.
+[Sat Mar 03 00:21:30 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 00:21:30 2012] [notice] Digest: done
+[Sat Mar 03 00:21:31 2012] [notice] Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 configured -- resuming normal operations
+[Sat Mar 03 00:21:31 2012] [notice] Server built: Sep 10 2011 11:34:11
+[Sat Mar 03 00:21:31 2012] [notice] Parent: Created child process 3104
+[Sat Mar 03 00:21:31 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 00:21:31 2012] [notice] Digest: done
+[Sat Mar 03 00:21:32 2012] [notice] Child 3104: Child process is running
+[Sat Mar 03 00:21:32 2012] [notice] Child 3104: Acquired the start mutex.
+[Sat Mar 03 00:21:32 2012] [notice] Child 3104: Starting 150 worker threads.
+[Sat Mar 03 00:21:32 2012] [notice] Child 3104: Starting thread to listen on port 443.
+[Sat Mar 03 00:21:32 2012] [notice] Child 3104: Starting thread to listen on port 443.
+[Sat Mar 03 00:21:32 2012] [notice] Child 3104: Starting thread to listen on port 80.
+[Sat Mar 03 00:21:32 2012] [notice] Child 3104: Starting thread to listen on port 80.
+[Sat Mar 03 00:21:42 2012] [warn] pid file E:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Mar 03 00:21:42 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 00:21:42 2012] [notice] Digest: done
+[Sat Mar 03 00:21:42 2012] [notice] Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 configured -- resuming normal operations
+[Sat Mar 03 00:21:42 2012] [notice] Server built: Sep 10 2011 11:34:11
+[Sat Mar 03 00:21:42 2012] [notice] Parent: Created child process 2288
+[Sat Mar 03 00:21:42 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 00:21:42 2012] [notice] Digest: done
+[Sat Mar 03 00:21:43 2012] [notice] Child 2288: Child process is running
+[Sat Mar 03 00:21:43 2012] [notice] Child 2288: Acquired the start mutex.
+[Sat Mar 03 00:21:43 2012] [notice] Child 2288: Starting 150 worker threads.
+[Sat Mar 03 00:21:43 2012] [notice] Child 2288: Starting thread to listen on port 443.
+[Sat Mar 03 00:21:43 2012] [notice] Child 2288: Starting thread to listen on port 443.
+[Sat Mar 03 00:21:43 2012] [notice] Child 2288: Starting thread to listen on port 80.
+[Sat Mar 03 00:21:43 2012] [notice] Child 2288: Starting thread to listen on port 80.
+[Sat Mar 03 00:21:51 2012] [notice] Parent: child process exited with status 3221225725 -- Restarting.
+[Sat Mar 03 00:21:51 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 00:21:51 2012] [notice] Digest: done
+[Sat Mar 03 00:21:52 2012] [notice] Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 configured -- resuming normal operations
+[Sat Mar 03 00:21:52 2012] [notice] Server built: Sep 10 2011 11:34:11
+[Sat Mar 03 00:21:52 2012] [notice] Parent: Created child process 4952
+[Sat Mar 03 00:21:52 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 00:21:52 2012] [notice] Digest: done
+[Sat Mar 03 00:21:52 2012] [notice] Child 4952: Child process is running
+[Sat Mar 03 00:21:52 2012] [notice] Child 4952: Acquired the start mutex.
+[Sat Mar 03 00:21:52 2012] [notice] Child 4952: Starting 150 worker threads.
+[Sat Mar 03 00:21:52 2012] [notice] Child 4952: Starting thread to listen on port 443.
+[Sat Mar 03 00:21:52 2012] [notice] Child 4952: Starting thread to listen on port 443.
+[Sat Mar 03 00:21:52 2012] [notice] Child 4952: Starting thread to listen on port 80.
+[Sat Mar 03 00:21:52 2012] [notice] Child 4952: Starting thread to listen on port 80.
+[Sat Mar 03 00:22:01 2012] [warn] pid file E:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Mar 03 00:22:01 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 00:22:01 2012] [notice] Digest: done
+[Sat Mar 03 00:22:02 2012] [notice] Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 configured -- resuming normal operations
+[Sat Mar 03 00:22:02 2012] [notice] Server built: Sep 10 2011 11:34:11
+[Sat Mar 03 00:22:02 2012] [notice] Parent: Created child process 1300
+[Sat Mar 03 00:22:02 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 00:22:02 2012] [notice] Digest: done
+[Sat Mar 03 00:22:02 2012] [notice] Child 1300: Child process is running
+[Sat Mar 03 00:22:02 2012] [notice] Child 1300: Acquired the start mutex.
+[Sat Mar 03 00:22:02 2012] [notice] Child 1300: Starting 150 worker threads.
+[Sat Mar 03 00:22:02 2012] [notice] Child 1300: Starting thread to listen on port 443.
+[Sat Mar 03 00:22:02 2012] [notice] Child 1300: Starting thread to listen on port 80.
+[Sat Mar 03 00:22:02 2012] [notice] Child 1300: Starting thread to listen on port 443.
+[Sat Mar 03 00:22:02 2012] [notice] Child 1300: Starting thread to listen on port 80.
+[Sat Mar 03 00:23:49 2012] [notice] Parent: child process exited with status 3221225725 -- Restarting.
+[Sat Mar 03 00:23:49 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 00:23:49 2012] [notice] Digest: done
+[Sat Mar 03 00:23:49 2012] [notice] Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 configured -- resuming normal operations
+[Sat Mar 03 00:23:49 2012] [notice] Server built: Sep 10 2011 11:34:11
+[Sat Mar 03 00:23:49 2012] [notice] Parent: Created child process 3000
+[Sat Mar 03 00:23:49 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 00:23:49 2012] [notice] Digest: done
+[Sat Mar 03 00:23:49 2012] [notice] Child 3000: Child process is running
+[Sat Mar 03 00:23:49 2012] [notice] Child 3000: Acquired the start mutex.
+[Sat Mar 03 00:23:49 2012] [notice] Child 3000: Starting 150 worker threads.
+[Sat Mar 03 00:23:49 2012] [notice] Child 3000: Starting thread to listen on port 443.
+[Sat Mar 03 00:23:49 2012] [notice] Child 3000: Starting thread to listen on port 80.
+[Sat Mar 03 00:23:49 2012] [notice] Child 3000: Starting thread to listen on port 443.
+[Sat Mar 03 00:23:49 2012] [notice] Child 3000: Starting thread to listen on port 80.
+[Sat Mar 03 00:23:54 2012] [notice] Parent: child process exited with status 3221225725 -- Restarting.
+[Sat Mar 03 00:23:54 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 00:23:54 2012] [notice] Digest: done
+[Sat Mar 03 00:23:54 2012] [notice] Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 configured -- resuming normal operations
+[Sat Mar 03 00:23:54 2012] [notice] Server built: Sep 10 2011 11:34:11
+[Sat Mar 03 00:23:54 2012] [notice] Parent: Created child process 3956
+[Sat Mar 03 00:23:55 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 00:23:55 2012] [notice] Digest: done
+[Sat Mar 03 00:23:55 2012] [notice] Child 3956: Child process is running
+[Sat Mar 03 00:23:55 2012] [notice] Child 3956: Acquired the start mutex.
+[Sat Mar 03 00:23:55 2012] [notice] Child 3956: Starting 150 worker threads.
+[Sat Mar 03 00:23:55 2012] [notice] Child 3956: Starting thread to listen on port 443.
+[Sat Mar 03 00:23:55 2012] [notice] Child 3956: Starting thread to listen on port 443.
+[Sat Mar 03 00:23:55 2012] [notice] Child 3956: Starting thread to listen on port 80.
+[Sat Mar 03 00:23:55 2012] [notice] Child 3956: Starting thread to listen on port 80.
+[Sat Mar 03 00:25:12 2012] [notice] Parent: child process exited with status 3221225725 -- Restarting.
+[Sat Mar 03 00:25:12 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 00:25:12 2012] [notice] Digest: done
+[Sat Mar 03 00:25:12 2012] [notice] Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 configured -- resuming normal operations
+[Sat Mar 03 00:25:12 2012] [notice] Server built: Sep 10 2011 11:34:11
+[Sat Mar 03 00:25:12 2012] [notice] Parent: Created child process 3052
+[Sat Mar 03 00:25:13 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 00:25:13 2012] [notice] Digest: done
+[Sat Mar 03 00:25:13 2012] [notice] Child 3052: Child process is running
+[Sat Mar 03 00:25:13 2012] [notice] Child 3052: Acquired the start mutex.
+[Sat Mar 03 00:25:13 2012] [notice] Child 3052: Starting 150 worker threads.
+[Sat Mar 03 00:25:13 2012] [notice] Child 3052: Starting thread to listen on port 443.
+[Sat Mar 03 00:25:13 2012] [notice] Child 3052: Starting thread to listen on port 443.
+[Sat Mar 03 00:25:13 2012] [notice] Child 3052: Starting thread to listen on port 80.
+[Sat Mar 03 00:25:13 2012] [notice] Child 3052: Starting thread to listen on port 80.
+[Sat Mar 03 00:25:35 2012] [notice] Parent: child process exited with status 3221225725 -- Restarting.
+[Sat Mar 03 00:25:35 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 00:25:35 2012] [notice] Digest: done
+[Sat Mar 03 00:25:35 2012] [notice] Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 configured -- resuming normal operations
+[Sat Mar 03 00:25:35 2012] [notice] Server built: Sep 10 2011 11:34:11
+[Sat Mar 03 00:25:35 2012] [notice] Parent: Created child process 3836
+[Sat Mar 03 00:25:35 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 00:25:35 2012] [notice] Digest: done
+[Sat Mar 03 00:25:36 2012] [notice] Child 3836: Child process is running
+[Sat Mar 03 00:25:36 2012] [notice] Child 3836: Acquired the start mutex.
+[Sat Mar 03 00:25:36 2012] [notice] Child 3836: Starting 150 worker threads.
+[Sat Mar 03 00:25:36 2012] [notice] Child 3836: Starting thread to listen on port 443.
+[Sat Mar 03 00:25:36 2012] [notice] Child 3836: Starting thread to listen on port 443.
+[Sat Mar 03 00:25:36 2012] [notice] Child 3836: Starting thread to listen on port 80.
+[Sat Mar 03 00:25:36 2012] [notice] Child 3836: Starting thread to listen on port 80.
+[Sat Mar 03 00:26:02 2012] [notice] Parent: child process exited with status 3221225725 -- Restarting.
+[Sat Mar 03 00:26:02 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 00:26:02 2012] [notice] Digest: done
+[Sat Mar 03 00:26:02 2012] [notice] Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 configured -- resuming normal operations
+[Sat Mar 03 00:26:02 2012] [notice] Server built: Sep 10 2011 11:34:11
+[Sat Mar 03 00:26:02 2012] [notice] Parent: Created child process 1060
+[Sat Mar 03 00:26:03 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 00:26:03 2012] [notice] Digest: done
+[Sat Mar 03 00:26:03 2012] [notice] Child 1060: Child process is running
+[Sat Mar 03 00:26:03 2012] [notice] Child 1060: Acquired the start mutex.
+[Sat Mar 03 00:26:03 2012] [notice] Child 1060: Starting 150 worker threads.
+[Sat Mar 03 00:26:03 2012] [notice] Child 1060: Starting thread to listen on port 443.
+[Sat Mar 03 00:26:03 2012] [notice] Child 1060: Starting thread to listen on port 443.
+[Sat Mar 03 00:26:03 2012] [notice] Child 1060: Starting thread to listen on port 80.
+[Sat Mar 03 00:26:03 2012] [notice] Child 1060: Starting thread to listen on port 80.
+[Sat Mar 03 00:26:10 2012] [notice] Parent: child process exited with status 3221225725 -- Restarting.
+[Sat Mar 03 00:26:10 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 00:26:10 2012] [notice] Digest: done
+[Sat Mar 03 00:26:11 2012] [notice] Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 configured -- resuming normal operations
+[Sat Mar 03 00:26:11 2012] [notice] Server built: Sep 10 2011 11:34:11
+[Sat Mar 03 00:26:11 2012] [notice] Parent: Created child process 4704
+[Sat Mar 03 00:26:11 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 00:26:11 2012] [notice] Digest: done
+[Sat Mar 03 00:26:11 2012] [notice] Child 4704: Child process is running
+[Sat Mar 03 00:26:11 2012] [notice] Child 4704: Acquired the start mutex.
+[Sat Mar 03 00:26:11 2012] [notice] Child 4704: Starting 150 worker threads.
+[Sat Mar 03 00:26:11 2012] [notice] Child 4704: Starting thread to listen on port 443.
+[Sat Mar 03 00:26:11 2012] [notice] Child 4704: Starting thread to listen on port 443.
+[Sat Mar 03 00:26:11 2012] [notice] Child 4704: Starting thread to listen on port 80.
+[Sat Mar 03 00:26:11 2012] [notice] Child 4704: Starting thread to listen on port 80.
+[Sat Mar 03 00:30:03 2012] [notice] Parent: child process exited with status 3221225725 -- Restarting.
+[Sat Mar 03 00:30:04 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 00:30:04 2012] [notice] Digest: done
+[Sat Mar 03 00:30:04 2012] [notice] Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 configured -- resuming normal operations
+[Sat Mar 03 00:30:04 2012] [notice] Server built: Sep 10 2011 11:34:11
+[Sat Mar 03 00:30:04 2012] [notice] Parent: Created child process 2128
+[Sat Mar 03 00:30:05 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 00:30:05 2012] [notice] Digest: done
+[Sat Mar 03 00:30:05 2012] [notice] Child 2128: Child process is running
+[Sat Mar 03 00:30:05 2012] [notice] Child 2128: Acquired the start mutex.
+[Sat Mar 03 00:30:05 2012] [notice] Child 2128: Starting 150 worker threads.
+[Sat Mar 03 00:30:05 2012] [notice] Child 2128: Starting thread to listen on port 443.
+[Sat Mar 03 00:30:05 2012] [notice] Child 2128: Starting thread to listen on port 443.
+[Sat Mar 03 00:30:05 2012] [notice] Child 2128: Starting thread to listen on port 80.
+[Sat Mar 03 00:30:05 2012] [notice] Child 2128: Starting thread to listen on port 80.
+[Sat Mar 03 00:34:44 2012] [notice] Parent: child process exited with status 3221225725 -- Restarting.
+[Sat Mar 03 00:34:44 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 00:34:44 2012] [notice] Digest: done
+[Sat Mar 03 00:34:45 2012] [notice] Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 configured -- resuming normal operations
+[Sat Mar 03 00:34:45 2012] [notice] Server built: Sep 10 2011 11:34:11
+[Sat Mar 03 00:34:45 2012] [notice] Parent: Created child process 3572
+[Sat Mar 03 00:34:45 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 00:34:45 2012] [notice] Digest: done
+[Sat Mar 03 00:34:45 2012] [notice] Child 3572: Child process is running
+[Sat Mar 03 00:34:45 2012] [notice] Child 3572: Acquired the start mutex.
+[Sat Mar 03 00:34:45 2012] [notice] Child 3572: Starting 150 worker threads.
+[Sat Mar 03 00:34:45 2012] [notice] Child 3572: Starting thread to listen on port 443.
+[Sat Mar 03 00:34:45 2012] [notice] Child 3572: Starting thread to listen on port 80.
+[Sat Mar 03 00:34:45 2012] [notice] Child 3572: Starting thread to listen on port 443.
+[Sat Mar 03 00:34:45 2012] [notice] Child 3572: Starting thread to listen on port 80.
+[Sat Mar 03 00:35:42 2012] [notice] Parent: child process exited with status 3221225725 -- Restarting.
+[Sat Mar 03 00:35:42 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 00:35:42 2012] [notice] Digest: done
+[Sat Mar 03 00:35:43 2012] [notice] Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 configured -- resuming normal operations
+[Sat Mar 03 00:35:43 2012] [notice] Server built: Sep 10 2011 11:34:11
+[Sat Mar 03 00:35:43 2012] [notice] Parent: Created child process 4468
+[Sat Mar 03 00:35:43 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 00:35:43 2012] [notice] Digest: done
+[Sat Mar 03 00:35:43 2012] [notice] Child 4468: Child process is running
+[Sat Mar 03 00:35:43 2012] [notice] Child 4468: Acquired the start mutex.
+[Sat Mar 03 00:35:43 2012] [notice] Child 4468: Starting 150 worker threads.
+[Sat Mar 03 00:35:43 2012] [notice] Child 4468: Starting thread to listen on port 443.
+[Sat Mar 03 00:35:43 2012] [notice] Child 4468: Starting thread to listen on port 443.
+[Sat Mar 03 00:35:43 2012] [notice] Child 4468: Starting thread to listen on port 80.
+[Sat Mar 03 00:35:43 2012] [notice] Child 4468: Starting thread to listen on port 80.
+[Sat Mar 03 00:42:40 2012] [notice] Parent: child process exited with status 3221225725 -- Restarting.
+[Sat Mar 03 00:42:40 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 00:42:40 2012] [notice] Digest: done
+[Sat Mar 03 00:42:41 2012] [notice] Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 configured -- resuming normal operations
+[Sat Mar 03 00:42:41 2012] [notice] Server built: Sep 10 2011 11:34:11
+[Sat Mar 03 00:42:41 2012] [notice] Parent: Created child process 3716
+[Sat Mar 03 00:42:41 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 00:42:41 2012] [notice] Digest: done
+[Sat Mar 03 00:42:41 2012] [notice] Child 3716: Child process is running
+[Sat Mar 03 00:42:41 2012] [notice] Child 3716: Acquired the start mutex.
+[Sat Mar 03 00:42:41 2012] [notice] Child 3716: Starting 150 worker threads.
+[Sat Mar 03 00:42:41 2012] [notice] Child 3716: Starting thread to listen on port 443.
+[Sat Mar 03 00:42:41 2012] [notice] Child 3716: Starting thread to listen on port 443.
+[Sat Mar 03 00:42:41 2012] [notice] Child 3716: Starting thread to listen on port 80.
+[Sat Mar 03 00:42:41 2012] [notice] Child 3716: Starting thread to listen on port 80.
+[Sat Mar 03 00:43:40 2012] [notice] Parent: child process exited with status 3221225725 -- Restarting.
+[Sat Mar 03 00:43:40 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 00:43:40 2012] [notice] Digest: done
+[Sat Mar 03 00:43:41 2012] [notice] Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 configured -- resuming normal operations
+[Sat Mar 03 00:43:41 2012] [notice] Server built: Sep 10 2011 11:34:11
+[Sat Mar 03 00:43:41 2012] [notice] Parent: Created child process 4776
+[Sat Mar 03 00:43:41 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 00:43:41 2012] [notice] Digest: done
+[Sat Mar 03 00:43:41 2012] [notice] Child 4776: Child process is running
+[Sat Mar 03 00:43:41 2012] [notice] Child 4776: Acquired the start mutex.
+[Sat Mar 03 00:43:41 2012] [notice] Child 4776: Starting 150 worker threads.
+[Sat Mar 03 00:43:41 2012] [notice] Child 4776: Starting thread to listen on port 443.
+[Sat Mar 03 00:43:41 2012] [notice] Child 4776: Starting thread to listen on port 443.
+[Sat Mar 03 00:43:41 2012] [notice] Child 4776: Starting thread to listen on port 80.
+[Sat Mar 03 00:43:41 2012] [notice] Child 4776: Starting thread to listen on port 80.
+[Sat Mar 03 00:50:13 2012] [notice] Parent: child process exited with status 3221225477 -- Restarting.
+[Sat Mar 03 00:50:13 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 00:50:13 2012] [notice] Digest: done
+[Sat Mar 03 00:50:13 2012] [notice] Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 configured -- resuming normal operations
+[Sat Mar 03 00:50:13 2012] [notice] Server built: Sep 10 2011 11:34:11
+[Sat Mar 03 00:50:13 2012] [notice] Parent: Created child process 3860
+[Sat Mar 03 00:50:13 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 00:50:13 2012] [notice] Digest: done
+[Sat Mar 03 00:50:14 2012] [notice] Child 3860: Child process is running
+[Sat Mar 03 00:50:14 2012] [notice] Child 3860: Acquired the start mutex.
+[Sat Mar 03 00:50:14 2012] [notice] Child 3860: Starting 150 worker threads.
+[Sat Mar 03 00:50:14 2012] [notice] Child 3860: Starting thread to listen on port 443.
+[Sat Mar 03 00:50:14 2012] [notice] Child 3860: Starting thread to listen on port 443.
+[Sat Mar 03 00:50:14 2012] [notice] Child 3860: Starting thread to listen on port 80.
+[Sat Mar 03 00:50:14 2012] [notice] Child 3860: Starting thread to listen on port 80.
+[Sat Mar 03 00:50:54 2012] [notice] Parent: child process exited with status 3221225725 -- Restarting.
+[Sat Mar 03 00:50:55 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 00:50:55 2012] [notice] Digest: done
+[Sat Mar 03 00:50:55 2012] [notice] Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 configured -- resuming normal operations
+[Sat Mar 03 00:50:55 2012] [notice] Server built: Sep 10 2011 11:34:11
+[Sat Mar 03 00:50:55 2012] [notice] Parent: Created child process 4276
+[Sat Mar 03 00:50:55 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 00:50:55 2012] [notice] Digest: done
+[Sat Mar 03 00:50:56 2012] [notice] Child 4276: Child process is running
+[Sat Mar 03 00:50:56 2012] [notice] Child 4276: Acquired the start mutex.
+[Sat Mar 03 00:50:56 2012] [notice] Child 4276: Starting 150 worker threads.
+[Sat Mar 03 00:50:56 2012] [notice] Child 4276: Starting thread to listen on port 443.
+[Sat Mar 03 00:50:56 2012] [notice] Child 4276: Starting thread to listen on port 443.
+[Sat Mar 03 00:50:56 2012] [notice] Child 4276: Starting thread to listen on port 80.
+[Sat Mar 03 00:50:56 2012] [notice] Child 4276: Starting thread to listen on port 80.
+[Sat Mar 03 01:09:22 2012] [notice] Parent: child process exited with status 3221225725 -- Restarting.
+[Sat Mar 03 01:09:22 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 01:09:22 2012] [notice] Digest: done
+[Sat Mar 03 01:09:23 2012] [notice] Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 configured -- resuming normal operations
+[Sat Mar 03 01:09:23 2012] [notice] Server built: Sep 10 2011 11:34:11
+[Sat Mar 03 01:09:23 2012] [notice] Parent: Created child process 2576
+[Sat Mar 03 01:09:23 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 01:09:23 2012] [notice] Digest: done
+[Sat Mar 03 01:09:23 2012] [notice] Child 2576: Child process is running
+[Sat Mar 03 01:09:23 2012] [notice] Child 2576: Acquired the start mutex.
+[Sat Mar 03 01:09:23 2012] [notice] Child 2576: Starting 150 worker threads.
+[Sat Mar 03 01:09:23 2012] [notice] Child 2576: Starting thread to listen on port 443.
+[Sat Mar 03 01:09:23 2012] [notice] Child 2576: Starting thread to listen on port 443.
+[Sat Mar 03 01:09:23 2012] [notice] Child 2576: Starting thread to listen on port 80.
+[Sat Mar 03 01:09:23 2012] [notice] Child 2576: Starting thread to listen on port 80.
+[Sat Mar 03 01:10:19 2012] [warn] pid file E:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Mar 03 01:10:19 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 01:10:19 2012] [notice] Digest: done
+[Sat Mar 03 01:10:19 2012] [notice] Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 configured -- resuming normal operations
+[Sat Mar 03 01:10:19 2012] [notice] Server built: Sep 10 2011 11:34:11
+[Sat Mar 03 01:10:19 2012] [notice] Parent: Created child process 4528
+[Sat Mar 03 01:10:19 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 01:10:19 2012] [notice] Digest: done
+[Sat Mar 03 01:10:20 2012] [notice] Child 4528: Child process is running
+[Sat Mar 03 01:10:20 2012] [notice] Child 4528: Acquired the start mutex.
+[Sat Mar 03 01:10:20 2012] [notice] Child 4528: Starting 150 worker threads.
+[Sat Mar 03 01:10:20 2012] [notice] Child 4528: Starting thread to listen on port 443.
+[Sat Mar 03 01:10:20 2012] [notice] Child 4528: Starting thread to listen on port 443.
+[Sat Mar 03 01:10:20 2012] [notice] Child 4528: Starting thread to listen on port 80.
+[Sat Mar 03 01:10:20 2012] [notice] Child 4528: Starting thread to listen on port 80.
+[Sat Mar 03 01:10:28 2012] [notice] Parent: child process exited with status 3221225725 -- Restarting.
+[Sat Mar 03 01:10:28 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 01:10:28 2012] [notice] Digest: done
+[Sat Mar 03 01:10:28 2012] [notice] Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 configured -- resuming normal operations
+[Sat Mar 03 01:10:28 2012] [notice] Server built: Sep 10 2011 11:34:11
+[Sat Mar 03 01:10:28 2012] [notice] Parent: Created child process 3932
+[Sat Mar 03 01:10:28 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 01:10:28 2012] [notice] Digest: done
+[Sat Mar 03 01:10:29 2012] [notice] Child 3932: Child process is running
+[Sat Mar 03 01:10:29 2012] [notice] Child 3932: Acquired the start mutex.
+[Sat Mar 03 01:10:29 2012] [notice] Child 3932: Starting 150 worker threads.
+[Sat Mar 03 01:10:29 2012] [notice] Child 3932: Starting thread to listen on port 443.
+[Sat Mar 03 01:10:29 2012] [notice] Child 3932: Starting thread to listen on port 443.
+[Sat Mar 03 01:10:29 2012] [notice] Child 3932: Starting thread to listen on port 80.
+[Sat Mar 03 01:10:29 2012] [notice] Child 3932: Starting thread to listen on port 80.
+[Sat Mar 03 01:11:22 2012] [notice] Parent: child process exited with status 3221225725 -- Restarting.
+[Sat Mar 03 01:11:22 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 01:11:22 2012] [notice] Digest: done
+[Sat Mar 03 01:11:22 2012] [notice] Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 configured -- resuming normal operations
+[Sat Mar 03 01:11:22 2012] [notice] Server built: Sep 10 2011 11:34:11
+[Sat Mar 03 01:11:22 2012] [notice] Parent: Created child process 2112
+[Sat Mar 03 01:11:23 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 01:11:23 2012] [notice] Digest: done
+[Sat Mar 03 01:11:23 2012] [notice] Child 2112: Child process is running
+[Sat Mar 03 01:11:23 2012] [notice] Child 2112: Acquired the start mutex.
+[Sat Mar 03 01:11:23 2012] [notice] Child 2112: Starting 150 worker threads.
+[Sat Mar 03 01:11:23 2012] [notice] Child 2112: Starting thread to listen on port 443.
+[Sat Mar 03 01:11:23 2012] [notice] Child 2112: Starting thread to listen on port 443.
+[Sat Mar 03 01:11:23 2012] [notice] Child 2112: Starting thread to listen on port 80.
+[Sat Mar 03 01:11:23 2012] [notice] Child 2112: Starting thread to listen on port 80.
+[Sat Mar 03 01:11:28 2012] [notice] Parent: child process exited with status 3221225725 -- Restarting.
+[Sat Mar 03 01:11:28 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 01:11:28 2012] [notice] Digest: done
+[Sat Mar 03 01:11:28 2012] [notice] Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 configured -- resuming normal operations
+[Sat Mar 03 01:11:28 2012] [notice] Server built: Sep 10 2011 11:34:11
+[Sat Mar 03 01:11:28 2012] [notice] Parent: Created child process 2724
+[Sat Mar 03 01:11:29 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 01:11:29 2012] [notice] Digest: done
+[Sat Mar 03 01:11:29 2012] [notice] Child 2724: Child process is running
+[Sat Mar 03 01:11:29 2012] [notice] Child 2724: Acquired the start mutex.
+[Sat Mar 03 01:11:29 2012] [notice] Child 2724: Starting 150 worker threads.
+[Sat Mar 03 01:11:29 2012] [notice] Child 2724: Starting thread to listen on port 443.
+[Sat Mar 03 01:11:29 2012] [notice] Child 2724: Starting thread to listen on port 443.
+[Sat Mar 03 01:11:29 2012] [notice] Child 2724: Starting thread to listen on port 80.
+[Sat Mar 03 01:11:29 2012] [notice] Child 2724: Starting thread to listen on port 80.
+[Sat Mar 03 01:11:50 2012] [warn] pid file E:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Mar 03 01:11:50 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 01:11:50 2012] [notice] Digest: done
+[Sat Mar 03 01:11:50 2012] [notice] Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 configured -- resuming normal operations
+[Sat Mar 03 01:11:50 2012] [notice] Server built: Sep 10 2011 11:34:11
+[Sat Mar 03 01:11:50 2012] [notice] Parent: Created child process 4560
+[Sat Mar 03 01:11:50 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 01:11:50 2012] [notice] Digest: done
+[Sat Mar 03 01:11:50 2012] [notice] Child 4560: Child process is running
+[Sat Mar 03 01:11:50 2012] [notice] Child 4560: Acquired the start mutex.
+[Sat Mar 03 01:11:50 2012] [notice] Child 4560: Starting 150 worker threads.
+[Sat Mar 03 01:11:50 2012] [notice] Child 4560: Starting thread to listen on port 443.
+[Sat Mar 03 01:11:50 2012] [notice] Child 4560: Starting thread to listen on port 443.
+[Sat Mar 03 01:11:50 2012] [notice] Child 4560: Starting thread to listen on port 80.
+[Sat Mar 03 01:11:50 2012] [notice] Child 4560: Starting thread to listen on port 80.
+[Sat Mar 03 01:13:53 2012] [notice] Parent: child process exited with status 3221225477 -- Restarting.
+[Sat Mar 03 01:13:53 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 01:13:53 2012] [notice] Digest: done
+[Sat Mar 03 01:13:53 2012] [notice] Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 configured -- resuming normal operations
+[Sat Mar 03 01:13:53 2012] [notice] Server built: Sep 10 2011 11:34:11
+[Sat Mar 03 01:13:53 2012] [notice] Parent: Created child process 3932
+[Sat Mar 03 01:13:53 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 01:13:53 2012] [notice] Digest: done
+[Sat Mar 03 01:13:54 2012] [notice] Child 3932: Child process is running
+[Sat Mar 03 01:13:54 2012] [notice] Child 3932: Acquired the start mutex.
+[Sat Mar 03 01:13:54 2012] [notice] Child 3932: Starting 150 worker threads.
+[Sat Mar 03 01:13:54 2012] [notice] Child 3932: Starting thread to listen on port 443.
+[Sat Mar 03 01:13:54 2012] [notice] Child 3932: Starting thread to listen on port 443.
+[Sat Mar 03 01:13:54 2012] [notice] Child 3932: Starting thread to listen on port 80.
+[Sat Mar 03 01:13:54 2012] [notice] Child 3932: Starting thread to listen on port 80.
+[Sat Mar 03 01:13:59 2012] [notice] Parent: child process exited with status 3221225725 -- Restarting.
+[Sat Mar 03 01:13:59 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 01:13:59 2012] [notice] Digest: done
+[Sat Mar 03 01:13:59 2012] [notice] Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 configured -- resuming normal operations
+[Sat Mar 03 01:13:59 2012] [notice] Server built: Sep 10 2011 11:34:11
+[Sat Mar 03 01:13:59 2012] [notice] Parent: Created child process 4600
+[Sat Mar 03 01:14:00 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 01:14:00 2012] [notice] Digest: done
+[Sat Mar 03 01:14:00 2012] [notice] Child 4600: Child process is running
+[Sat Mar 03 01:14:00 2012] [notice] Child 4600: Acquired the start mutex.
+[Sat Mar 03 01:14:00 2012] [notice] Child 4600: Starting 150 worker threads.
+[Sat Mar 03 01:14:00 2012] [notice] Child 4600: Starting thread to listen on port 443.
+[Sat Mar 03 01:14:00 2012] [notice] Child 4600: Starting thread to listen on port 443.
+[Sat Mar 03 01:14:00 2012] [notice] Child 4600: Starting thread to listen on port 80.
+[Sat Mar 03 01:14:00 2012] [notice] Child 4600: Starting thread to listen on port 80.
+[Sat Mar 03 01:18:31 2012] [notice] Parent: child process exited with status 3221225477 -- Restarting.
+[Sat Mar 03 01:18:31 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 01:18:31 2012] [notice] Digest: done
+[Sat Mar 03 01:18:32 2012] [notice] Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 configured -- resuming normal operations
+[Sat Mar 03 01:18:32 2012] [notice] Server built: Sep 10 2011 11:34:11
+[Sat Mar 03 01:18:32 2012] [notice] Parent: Created child process 3000
+[Sat Mar 03 01:18:32 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 01:18:32 2012] [notice] Digest: done
+[Sat Mar 03 01:18:32 2012] [notice] Child 3000: Child process is running
+[Sat Mar 03 01:18:32 2012] [notice] Child 3000: Acquired the start mutex.
+[Sat Mar 03 01:18:32 2012] [notice] Child 3000: Starting 150 worker threads.
+[Sat Mar 03 01:18:32 2012] [notice] Child 3000: Starting thread to listen on port 443.
+[Sat Mar 03 01:18:32 2012] [notice] Child 3000: Starting thread to listen on port 443.
+[Sat Mar 03 01:18:32 2012] [notice] Child 3000: Starting thread to listen on port 80.
+[Sat Mar 03 01:18:32 2012] [notice] Child 3000: Starting thread to listen on port 80.
+[Sat Mar 03 01:20:22 2012] [notice] Parent: child process exited with status 3221225477 -- Restarting.
+[Sat Mar 03 01:20:22 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 01:20:22 2012] [notice] Digest: done
+[Sat Mar 03 01:20:22 2012] [notice] Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 configured -- resuming normal operations
+[Sat Mar 03 01:20:22 2012] [notice] Server built: Sep 10 2011 11:34:11
+[Sat Mar 03 01:20:22 2012] [notice] Parent: Created child process 3416
+[Sat Mar 03 01:20:22 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 01:20:22 2012] [notice] Digest: done
+[Sat Mar 03 01:20:23 2012] [notice] Child 3416: Child process is running
+[Sat Mar 03 01:20:23 2012] [notice] Child 3416: Acquired the start mutex.
+[Sat Mar 03 01:20:23 2012] [notice] Child 3416: Starting 150 worker threads.
+[Sat Mar 03 01:20:23 2012] [notice] Child 3416: Starting thread to listen on port 443.
+[Sat Mar 03 01:20:23 2012] [notice] Child 3416: Starting thread to listen on port 443.
+[Sat Mar 03 01:20:23 2012] [notice] Child 3416: Starting thread to listen on port 80.
+[Sat Mar 03 01:20:23 2012] [notice] Child 3416: Starting thread to listen on port 80.
+[Sat Mar 03 01:47:59 2012] [notice] Parent: child process exited with status 3221225477 -- Restarting.
+[Sat Mar 03 01:47:59 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 01:47:59 2012] [notice] Digest: done
+[Sat Mar 03 01:48:00 2012] [notice] Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 configured -- resuming normal operations
+[Sat Mar 03 01:48:00 2012] [notice] Server built: Sep 10 2011 11:34:11
+[Sat Mar 03 01:48:00 2012] [notice] Parent: Created child process 4688
+[Sat Mar 03 01:48:00 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 01:48:00 2012] [notice] Digest: done
+[Sat Mar 03 01:48:00 2012] [notice] Child 4688: Child process is running
+[Sat Mar 03 01:48:00 2012] [notice] Child 4688: Acquired the start mutex.
+[Sat Mar 03 01:48:00 2012] [notice] Child 4688: Starting 150 worker threads.
+[Sat Mar 03 01:48:00 2012] [notice] Child 4688: Starting thread to listen on port 443.
+[Sat Mar 03 01:48:00 2012] [notice] Child 4688: Starting thread to listen on port 443.
+[Sat Mar 03 01:48:00 2012] [notice] Child 4688: Starting thread to listen on port 80.
+[Sat Mar 03 01:48:00 2012] [notice] Child 4688: Starting thread to listen on port 80.
+[Sat Mar 03 01:48:38 2012] [notice] Parent: child process exited with status 3221225477 -- Restarting.
+[Sat Mar 03 01:48:38 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 01:48:38 2012] [notice] Digest: done
+[Sat Mar 03 01:48:39 2012] [notice] Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 configured -- resuming normal operations
+[Sat Mar 03 01:48:39 2012] [notice] Server built: Sep 10 2011 11:34:11
+[Sat Mar 03 01:48:39 2012] [notice] Parent: Created child process 4624
+[Sat Mar 03 01:48:39 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 01:48:39 2012] [notice] Digest: done
+[Sat Mar 03 01:48:39 2012] [notice] Child 4624: Child process is running
+[Sat Mar 03 01:48:39 2012] [notice] Child 4624: Acquired the start mutex.
+[Sat Mar 03 01:48:39 2012] [notice] Child 4624: Starting 150 worker threads.
+[Sat Mar 03 01:48:39 2012] [notice] Child 4624: Starting thread to listen on port 443.
+[Sat Mar 03 01:48:39 2012] [notice] Child 4624: Starting thread to listen on port 443.
+[Sat Mar 03 01:48:39 2012] [notice] Child 4624: Starting thread to listen on port 80.
+[Sat Mar 03 01:48:39 2012] [notice] Child 4624: Starting thread to listen on port 80.
+[Sat Mar 03 02:40:43 2012] [warn] pid file E:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Mar 03 02:40:43 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 02:40:43 2012] [notice] Digest: done
+[Sat Mar 03 02:40:44 2012] [warn] pid file E:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Mar 03 02:40:44 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 02:40:44 2012] [notice] Digest: done
+[Sat Mar 03 02:40:44 2012] [notice] Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 configured -- resuming normal operations
+[Sat Mar 03 02:40:44 2012] [notice] Server built: Sep 10 2011 11:34:11
+[Sat Mar 03 02:40:44 2012] [notice] Parent: Created child process 292
+[Sat Mar 03 02:40:44 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 02:40:44 2012] [notice] Digest: done
+[Sat Mar 03 02:40:45 2012] [notice] Child 292: Child process is running
+[Sat Mar 03 02:40:45 2012] [notice] Child 292: Acquired the start mutex.
+[Sat Mar 03 02:40:45 2012] [notice] Child 292: Starting 150 worker threads.
+[Sat Mar 03 02:40:45 2012] [notice] Child 292: Starting thread to listen on port 443.
+[Sat Mar 03 02:40:45 2012] [notice] Child 292: Starting thread to listen on port 443.
+[Sat Mar 03 02:40:45 2012] [notice] Child 292: Starting thread to listen on port 80.
+[Sat Mar 03 02:40:45 2012] [notice] Child 292: Starting thread to listen on port 80.
+[Sat Mar 03 02:40:46 2012] [warn] pid file E:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Mar 03 02:40:46 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 02:40:46 2012] [notice] Digest: done
+[Sat Mar 03 02:40:46 2012] [notice] Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 configured -- resuming normal operations
+[Sat Mar 03 02:40:46 2012] [notice] Server built: Sep 10 2011 11:34:11
+[Sat Mar 03 02:40:46 2012] [notice] Parent: Created child process 4416
+[Sat Mar 03 02:40:46 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 02:40:46 2012] [notice] Digest: done
+[Sat Mar 03 02:40:47 2012] [notice] Child 4416: Child process is running
+[Sat Mar 03 02:40:47 2012] [notice] Child 4416: Acquired the start mutex.
+[Sat Mar 03 02:40:47 2012] [notice] Child 4416: Starting 150 worker threads.
+[Sat Mar 03 02:40:47 2012] [notice] Child 4416: Starting thread to listen on port 443.
+[Sat Mar 03 02:40:47 2012] [notice] Child 4416: Starting thread to listen on port 443.
+[Sat Mar 03 02:40:47 2012] [notice] Child 4416: Starting thread to listen on port 80.
+[Sat Mar 03 02:40:47 2012] [notice] Child 4416: Starting thread to listen on port 80.
+[Sat Mar 03 18:09:44 2012] [warn] pid file E:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Mar 03 18:09:44 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 18:09:44 2012] [notice] Digest: done
+[Sat Mar 03 18:09:45 2012] [notice] Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 configured -- resuming normal operations
+[Sat Mar 03 18:09:45 2012] [notice] Server built: Sep 10 2011 11:34:11
+[Sat Mar 03 18:09:45 2012] [notice] Parent: Created child process 1228
+Apache server shutdown initiated...
+Digest: generating secret for digest authentication ...
+[Sat Mar 03 18:09:45 2012] [notice] Digest: done
+[Sat Mar 03 18:09:45 2012] [notice] Child 1228: Child process is running
+[Sat Mar 03 18:09:45 2012] [notice] Child 1228: Acquired the start mutex.
+[Sat Mar 03 18:09:45 2012] [notice] Child 1228: Starting 150 worker threads.
+[Sat Mar 03 18:09:45 2012] [notice] Child 1228: Starting thread to listen on port 443.
+[Sat Mar 03 18:09:45 2012] [notice] Child 1228: Starting thread to listen on port 443.
+[Sat Mar 03 18:09:45 2012] [notice] Child 1228: Starting thread to listen on port 80.
+[Sat Mar 03 18:09:45 2012] [notice] Child 1228: Starting thread to listen on port 80.
+[Sat Mar 03 18:09:52 2012] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sat Mar 03 18:09:52 2012] [notice] Child 1228: Exit event signaled. Child process is ending.
+[Sat Mar 03 18:09:53 2012] [notice] Child 1228: Released the start mutex
+[Sat Mar 03 18:09:54 2012] [notice] Child 1228: All worker threads have exited.
+[Sat Mar 03 18:09:54 2012] [notice] Child 1228: Child process is exiting
+[Sat Mar 03 18:09:54 2012] [notice] Parent: Child process exited successfully.
+[Sat Mar 03 18:09:57 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 18:09:57 2012] [notice] Digest: done
+[Sat Mar 03 18:09:57 2012] [notice] Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 configured -- resuming normal operations
+[Sat Mar 03 18:09:57 2012] [notice] Server built: Sep 10 2011 11:34:11
+[Sat Mar 03 18:09:57 2012] [notice] Parent: Created child process 4412
+[Sat Mar 03 18:09:57 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 03 18:09:57 2012] [notice] Digest: done
+[Sat Mar 03 18:09:58 2012] [notice] Child 4412: Child process is running
+[Sat Mar 03 18:09:58 2012] [notice] Child 4412: Acquired the start mutex.
+[Sat Mar 03 18:09:58 2012] [notice] Child 4412: Starting 150 worker threads.
+[Sat Mar 03 18:09:58 2012] [notice] Child 4412: Starting thread to listen on port 443.
+[Sat Mar 03 18:09:58 2012] [notice] Child 4412: Starting thread to listen on port 443.
+[Sat Mar 03 18:09:58 2012] [notice] Child 4412: Starting thread to listen on port 80.
+[Sat Mar 03 18:09:58 2012] [notice] Child 4412: Starting thread to listen on port 80.
+[Sun Mar 04 00:30:05 2012] [warn] pid file E:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Mar 04 00:30:05 2012] [notice] Digest: generating secret for digest authentication ...
+[Sun Mar 04 00:30:05 2012] [notice] Digest: done
+[Sun Mar 04 00:30:06 2012] [notice] Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 configured -- resuming normal operations
+[Sun Mar 04 00:30:06 2012] [notice] Server built: Sep 10 2011 11:34:11
+[Sun Mar 04 00:30:06 2012] [notice] Parent: Created child process 6036
+[Sun Mar 04 00:30:06 2012] [notice] Digest: generating secret for digest authentication ...
+[Sun Mar 04 00:30:06 2012] [notice] Digest: done
+[Sun Mar 04 00:30:06 2012] [notice] Child 6036: Child process is running
+[Sun Mar 04 00:30:06 2012] [notice] Child 6036: Acquired the start mutex.
+[Sun Mar 04 00:30:06 2012] [notice] Child 6036: Starting 150 worker threads.
+[Sun Mar 04 00:30:06 2012] [notice] Child 6036: Starting thread to listen on port 443.
+[Sun Mar 04 00:30:06 2012] [notice] Child 6036: Starting thread to listen on port 443.
+[Sun Mar 04 00:30:06 2012] [notice] Child 6036: Starting thread to listen on port 80.
+[Sun Mar 04 00:30:06 2012] [notice] Child 6036: Starting thread to listen on port 80.
+[Sun Mar 04 22:17:04 2012] [warn] pid file E:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Mar 04 22:17:04 2012] [notice] Digest: generating secret for digest authentication ...
+[Sun Mar 04 22:17:04 2012] [notice] Digest: done
+[Sun Mar 04 22:17:06 2012] [notice] Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 configured -- resuming normal operations
+[Sun Mar 04 22:17:06 2012] [notice] Server built: Sep 10 2011 11:34:11
+[Sun Mar 04 22:17:06 2012] [notice] Parent: Created child process 3936
+[Sun Mar 04 22:17:07 2012] [notice] Digest: generating secret for digest authentication ...
+[Sun Mar 04 22:17:07 2012] [notice] Digest: done
+[Sun Mar 04 22:17:07 2012] [notice] Child 3936: Child process is running
+[Sun Mar 04 22:17:07 2012] [notice] Child 3936: Acquired the start mutex.
+[Sun Mar 04 22:17:07 2012] [notice] Child 3936: Starting 150 worker threads.
+[Sun Mar 04 22:17:07 2012] [notice] Child 3936: Starting thread to listen on port 443.
+[Sun Mar 04 22:17:07 2012] [notice] Child 3936: Starting thread to listen on port 443.
+[Sun Mar 04 22:17:07 2012] [notice] Child 3936: Starting thread to listen on port 80.
+[Sun Mar 04 22:17:07 2012] [notice] Child 3936: Starting thread to listen on port 80.
+[Sun Mar 04 22:53:04 2012] [warn] pid file E:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Mar 04 22:53:04 2012] [notice] Digest: generating secret for digest authentication ...
+[Sun Mar 04 22:53:04 2012] [notice] Digest: done
+[Sun Mar 04 22:53:04 2012] [notice] Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 configured -- resuming normal operations
+[Sun Mar 04 22:53:04 2012] [notice] Server built: Sep 10 2011 11:34:11
+[Sun Mar 04 22:53:04 2012] [notice] Parent: Created child process 3952
+[Sun Mar 04 22:53:05 2012] [notice] Digest: generating secret for digest authentication ...
+[Sun Mar 04 22:53:05 2012] [notice] Digest: done
+[Sun Mar 04 22:53:05 2012] [notice] Child 3952: Child process is running
+[Sun Mar 04 22:53:05 2012] [notice] Child 3952: Acquired the start mutex.
+[Sun Mar 04 22:53:05 2012] [notice] Child 3952: Starting 150 worker threads.
+[Sun Mar 04 22:53:05 2012] [notice] Child 3952: Starting thread to listen on port 443.
+[Sun Mar 04 22:53:05 2012] [notice] Child 3952: Starting thread to listen on port 443.
+[Sun Mar 04 22:53:05 2012] [notice] Child 3952: Starting thread to listen on port 80.
+[Sun Mar 04 22:53:05 2012] [notice] Child 3952: Starting thread to listen on port 80.
+Apache server shutdown initiated...
+[Mon Mar 05 14:32:00 2012] [warn] pid file E:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Mar 05 14:32:10 2012] [warn] pid file E:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Mar 05 14:32:10 2012] [notice] Digest: generating secret for digest authentication ...
+[Mon Mar 05 14:32:10 2012] [notice] Digest: done
+[Mon Mar 05 14:32:11 2012] [notice] Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 configured -- resuming normal operations
+[Mon Mar 05 14:32:11 2012] [notice] Server built: Sep 10 2011 11:34:11
+[Mon Mar 05 14:32:11 2012] [notice] Parent: Created child process 1836
+[Mon Mar 05 14:32:11 2012] [notice] Digest: generating secret for digest authentication ...
+[Mon Mar 05 14:32:11 2012] [notice] Digest: done
+[Mon Mar 05 14:32:11 2012] [notice] Child 1836: Child process is running
+[Mon Mar 05 14:32:11 2012] [notice] Child 1836: Acquired the start mutex.
+[Mon Mar 05 14:32:11 2012] [notice] Child 1836: Starting 150 worker threads.
+[Mon Mar 05 14:32:11 2012] [notice] Child 1836: Starting thread to listen on port 443.
+[Mon Mar 05 14:32:11 2012] [notice] Child 1836: Starting thread to listen on port 443.
+[Mon Mar 05 14:32:11 2012] [notice] Child 1836: Starting thread to listen on port 80.
+[Mon Mar 05 14:32:11 2012] [notice] Child 1836: Starting thread to listen on port 80.
+[Tue Mar 06 03:34:28 2012] [warn] pid file E:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Mar 06 03:34:28 2012] [notice] Digest: generating secret for digest authentication ...
+[Tue Mar 06 03:34:28 2012] [notice] Digest: done
+[Tue Mar 06 03:34:30 2012] [notice] Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 configured -- resuming normal operations
+[Tue Mar 06 03:34:30 2012] [notice] Server built: Sep 10 2011 11:34:11
+[Tue Mar 06 03:34:30 2012] [notice] Parent: Created child process 4364
+[Tue Mar 06 03:34:30 2012] [notice] Digest: generating secret for digest authentication ...
+[Tue Mar 06 03:34:30 2012] [notice] Digest: done
+[Tue Mar 06 03:34:30 2012] [notice] Child 4364: Child process is running
+[Tue Mar 06 03:34:30 2012] [notice] Child 4364: Acquired the start mutex.
+[Tue Mar 06 03:34:30 2012] [notice] Child 4364: Starting 150 worker threads.
+[Tue Mar 06 03:34:30 2012] [notice] Child 4364: Starting thread to listen on port 443.
+[Tue Mar 06 03:34:30 2012] [notice] Child 4364: Starting thread to listen on port 443.
+[Tue Mar 06 03:34:30 2012] [notice] Child 4364: Starting thread to listen on port 80.
+[Tue Mar 06 03:34:30 2012] [notice] Child 4364: Starting thread to listen on port 80.
+[Thu Mar 15 17:10:34 2012] [warn] pid file E:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Mar 15 17:10:34 2012] [notice] Digest: generating secret for digest authentication ...
+[Thu Mar 15 17:10:34 2012] [notice] Digest: done
+[Thu Mar 15 17:10:34 2012] [notice] Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 configured -- resuming normal operations
+[Thu Mar 15 17:10:34 2012] [notice] Server built: Sep 10 2011 11:34:11
+[Thu Mar 15 17:10:34 2012] [notice] Parent: Created child process 3240
+[Thu Mar 15 17:10:35 2012] [notice] Digest: generating secret for digest authentication ...
+[Thu Mar 15 17:10:35 2012] [notice] Digest: done
+[Thu Mar 15 17:10:35 2012] [notice] Child 3240: Child process is running
+[Thu Mar 15 17:10:35 2012] [notice] Child 3240: Acquired the start mutex.
+[Thu Mar 15 17:10:35 2012] [notice] Child 3240: Starting 150 worker threads.
+[Thu Mar 15 17:10:35 2012] [notice] Child 3240: Starting thread to listen on port 443.
+[Thu Mar 15 17:10:35 2012] [notice] Child 3240: Starting thread to listen on port 443.
+[Thu Mar 15 17:10:35 2012] [notice] Child 3240: Starting thread to listen on port 80.
+[Thu Mar 15 17:10:35 2012] [notice] Child 3240: Starting thread to listen on port 80.
